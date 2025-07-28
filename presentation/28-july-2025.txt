@@ -1,0 +1,48 @@
+Introduction to AI
+Machine Learning
+Digitized data
+computing power
+algorithms 
+Deep Learning
+ANN
+CNN
+RNN
+Natural Language Processing
+Transformers
+Attention is all you need
+
+Cat chased a rat.But it could not
+catch it
+
+cat = [2.3,-.7,.6.]
+
+Generative AI
+Generating a next word
+Translating from one lang to another
+summarization
+generating an image
+generating an audio
+generating a video 
+
+Chatgpt is an application built
+on LLM
+Large Language Model
+
+OpenAI - Microsoft
+Gemini - Google
+opensource
+llama - Facebook/meta
+perflexity
+
+prompt engineering
+prepare a presentation on
+any topic which you take
+this presentation should be for
+50 minutes duration
+you should also generate a mcq question
+on the above topic
+
+Generative AI
+
+elarning platform
+ekaushalya.kaushalya.tech
