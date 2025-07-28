@@ -1,0 +1,9 @@
+https://poloclub.github.io/transformer-explainer/
+https://poloclub.github.io/diffusion-explainer/
+https://poloclub.github.io/cnn-explainer/
+Build your own small language model
+https://youtu.be/pOFcwcwtv3k?si=PdxCSVYwLBNDLuyY
+https://colab.research.google.com/drive/1k4G3G5MxYLxawmPfAknUN7dbbmyqldQv?usp=sharing
+
+
+
